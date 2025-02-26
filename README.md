@@ -37,4 +37,4 @@ The data set contains the following diseases:
 
 
 ## Contact
-Created by [@sudhav2490] - feel free to contact me!
+Created by Sudha - feel free to contact me!
